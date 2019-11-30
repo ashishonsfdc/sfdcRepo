@@ -1,0 +1,14 @@
+.table {
+       overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+.tablecls td,
+.tablecls th {
+      overflow-wrap: break-word;
+      word-wrap: break-word;
+}
+
+.applyWrap {
+       overflow-wrap: break-word !important;
+      word-wrap: break-word !important;
+}

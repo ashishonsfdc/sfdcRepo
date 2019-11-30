@@ -1,0 +1,14 @@
+table {
+  overflow-wrap: break-word;
+ word-wrap: break-word;
+}
+.table {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+td,
+th {
+  word-break: break-word !important;
+  word-wrap: break-word;
+  text-align: justify;
+}
